@@ -44,4 +44,4 @@ Now your blue filter script is ready, but for easy distinction, I prefer add own
 - Click on script icon and you will see highlight. press (**&#8984;+V**) and your image from clipboard will be set as icon.
 
 ## Disclaimer
-With new OSX versions is possibility that script will stop working. 
+With new OSX versions it's possible that script will stop working. 
