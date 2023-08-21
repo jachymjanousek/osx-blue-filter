@@ -2,7 +2,7 @@
 Applescript that switch color filter checkbox in Accessibility/Display settings for flitering blue light.
 
 ## About
-The snippet is written by me, possibly not the best approach, but it works! 😃
+The snippet is written by me, possibly not the best approach, but it works!
 
 ## Code 
 ```applescript
@@ -56,7 +56,7 @@ My RGB values are:
 - Green: 64
 - Blue: 0
 
-Close the color picer dialog and now you are ready to use this "App" as shortcut to toggle blue light filter
+Close the color picker dialog and now you are ready to use this "App" as shortcut to toggle blue light filter
 
 ## Disclaimer
 
